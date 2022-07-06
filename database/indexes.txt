@@ -1,0 +1,2 @@
+koroko.jpg;1;;1;1;
+animals.jpg;1;1;;;
